@@ -21,3 +21,5 @@ function RealHome() {
  )
 }
 
+// In the current approach , client side rencdering is involved . To avoid client side rendering , we can use a different hook which is the getSession Hook
+
